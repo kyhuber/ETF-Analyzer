@@ -6,7 +6,9 @@ First, the ETF Analyzer uses SQL to query the database and import PYPL stock dat
 
 ![image](https://user-images.githubusercontent.com/69730757/154788869-a89499f1-1501-4b77-98b5-66498d9e957c.png)
 
-Next, the app joins data from three other stocks into the PYPL dataframe to represent the entire ETF. The ETF Analyzer calculates average daily and annualized returns for the portfolio and plots the cumulative data. 
+Next, the app joins data from three other stocks into the PYPL dataframe to represent the entire ETF. The ETF Analyzer calculates average daily and annualized returns for the portfolio and plots the cumulative data.
+
+![image](https://user-images.githubusercontent.com/69730757/154788975-f4f97040-0c71-48ae-8699-48495475fe27.png)
 
 The ETF Analyzer creates value for users, namely investors, by calculating key metrics that are relevant in ETF analysis. The plots and data visualizations simplify the complex .db data for the investor.
 
